@@ -1,5 +1,5 @@
 # Pokemon-Springboot-Microservice
-A springboot microservice where one service is giving information about a pokemon and contacting another one about it's strength and weakness. Uses Spring Cloud for gateway and Netflix Eureka Server for Service Discovery.
+A springboot microservice where one service is giving information about a pokemon and contacting another one about it's strength and weakness. Uses [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway) for routing purposes and [Netflix Eureka Server](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html) for Service Discovery.
 
 Sample input payload for pokedex-service:
 
